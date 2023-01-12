@@ -32,6 +32,10 @@ as well as speak to members about any configuration issues with the bot.
 - If you'd help with YAGPDB, I can be contacted via the
 [official support server](https://discord.gg/4udtcA5).
 
+## Pronouns
+
+`she/her`/`they/them`
+
 <!--
 **Wolveric/Wolveric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
