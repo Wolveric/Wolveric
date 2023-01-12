@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hiya! 👋
+
+I'm Wolveric/Willow/Wolvie, an English Rust developer, and contributor
+and voluntary support for [YAGPDB](https://github.com/botlabs-gg/yagpdb).
 
 <!--
 **Wolveric/Wolveric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
