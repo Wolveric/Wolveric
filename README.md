@@ -10,6 +10,13 @@ and voluntary support for [YAGPDB](https://github.com/botlabs-gg/yagpdb).
 I'm currently focused on looking for professional work,
 so I'm active primarily when contributing to YAGPDB.
 
+## Currently Learning
+
+- Surface level Go
+- Rust skills
+- NeoVim
+- Git
+
 <!--
 **Wolveric/Wolveric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
