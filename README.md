@@ -17,6 +17,14 @@ so I'm active primarily when contributing to YAGPDB.
 - NeoVim
 - Git
 
+## Ask me About
+
+- YAPGDB: As a member of the VS team, I'm well versed in YAGPDB's core systems,
+and have produced a number of pre-made Custom Commands!
+If you'd like to contact me about how to configure one of my scripts,
+you can find me on the official support server (linked below),
+as well as speak to members about any configuration issues with the bot.
+
 <!--
 **Wolveric/Wolveric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
