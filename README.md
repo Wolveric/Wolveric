@@ -25,6 +25,13 @@ If you'd like to contact me about how to configure one of my scripts,
 you can find me on the official support server (linked below),
 as well as speak to members about any configuration issues with the bot.
 
+## How to Reach me
+
+- If you'd like to chat, I can be found on
+<a rel="me" href="https://mastodonapp.uk/@WolvericCatkin">Mastodon</a>!
+- If you'd help with YAGPDB, I can be contacted via the
+[official support server](https://discord.gg/4udtcA5).
+
 <!--
 **Wolveric/Wolveric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
