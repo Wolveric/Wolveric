@@ -28,7 +28,7 @@ as well as speak to members about any configuration issues with the bot.
 ## How to Reach Me
 
 - If you'd like to chat, I can be found on
-<a rel="me" href="https://mastodonapp.uk/@WolvericCatkin">Mastodon</a>!
+[Mastodon](https://mastodonapp.uk/@WolvericCatkin)!
 - If you'd help with YAGPDB, I can be contacted via the
 [official support server](https://discord.gg/4udtcA5).
 
