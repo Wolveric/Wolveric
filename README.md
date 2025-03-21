@@ -14,6 +14,8 @@ so I'm active primarily when contributing to YAGPDB.
 
 - Surface level Go
 - Rust skills
+- Surface level SQL (MariaDB/MySQL, SQLite)
+	- Learnt in practice while learning/debugging with the `diesel` crate
 - NeoVim
 - Git
 
