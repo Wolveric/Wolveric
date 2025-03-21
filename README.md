@@ -7,7 +7,7 @@ and voluntary support for [YAGPDB](https://github.com/botlabs-gg/yagpdb).
 
 - None...
 
-I'm currently focused on looking for professional work,
+I'm currently focused on college work,
 so I'm active primarily when contributing to YAGPDB.
 
 ## Currently Learning
